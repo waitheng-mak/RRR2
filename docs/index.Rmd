@@ -11,4 +11,4 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 
 ## R Markdown
 
-* This is the second website generated with R markdown, as a practice.
+* This is the second website generated with R markdown, as a practice.   
